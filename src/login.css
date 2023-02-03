@@ -1,0 +1,19 @@
+.mainlogin{
+    background-image: url('./images/img2.jpeg');
+    height:100vh;
+    overflow: hidden;
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    color:white;
+    text-align: center;
+}
+.s1{
+    margin-top: 8%;
+}
+.mb-3 col-lg-6{
+    width: 300px;
+    height: 100px;
+    border-radius: 30px;
+}

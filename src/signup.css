@@ -1,0 +1,14 @@
+.mainbox{
+    background-image: url('./images/img3.jpeg');
+    height:100vh;
+    overflow: hidden;
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    color:white;
+    text-align: center;
+}
+.s2{
+    margin-top: 8%;
+}
